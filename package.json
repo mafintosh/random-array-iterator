@@ -1,6 +1,6 @@
 {
   "name": "random-array-iterator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An iterator to iterate an array in random order with controls to requeue or dequeue elements during the iteration",
   "main": "index.js",
   "dependencies": {},
